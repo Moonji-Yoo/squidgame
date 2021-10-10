@@ -1,0 +1,28 @@
+ul {
+    list-style: none;
+    margin : 0px;
+    padding : 0px;
+    display : table;
+    margin : 0 auto;
+}
+
+li {
+    margin : 0px;
+    margin-right : 15px;
+    padding : 0px;
+    float : left;
+    : center;
+}
+
+body {
+    background-color: black;
+    color : white;
+}
+
+a {
+    color : #e83d7d;
+}
+
+.member {
+    text-align: center;
+}
